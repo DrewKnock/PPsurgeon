@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PPsurgeon
+- 👋 Hi, I’m @DrewKnock
 - im trying to learn programming and this will be where my crappy projects will be stored :)
 
 <!---
