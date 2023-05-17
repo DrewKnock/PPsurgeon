@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrewKnock
-- im trying to learn programming and this will be where my projects will be stored :)
+- Program stuff
 
 <!---
 PPsurgeon/PPsurgeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
